@@ -31,6 +31,23 @@ No source repo ever existed for this — Thunkable is a cloud-hosted visual bloc
 
 It stayed live and quietly supported for years after — the last user bug report on record came in **June 2023**, three years after the first release, still running on an app a teenager built with a visual block editor and no formal training.
 
+## Real-world impact
+
+This is the reason the app existed at all — real people used it for things beyond note-taking. The best example, from a real support email exchange in late 2022:
+
+> "My 99 year old mother uses this as a hearing aid. Awsome but bigger type would help."
+> — mclulow, Nov 29, 2022
+
+Two years after the last update, still personally replying to support requests:
+
+> "Hey! I read your previous email as well. Thank you for reaching back. I don't update this app anymore, BUT what you can still do is change your PHONE's font... Hope this helps! Thank you for using the app."
+> — reply from Walkin, Dec 1, 2022
+
+> "Many thanks. Great app as CC for hard of hearing. Works better than anything I found so far."
+> — mclulow, Dec 1, 2022
+
+A speech-to-text memo app, built to save reminders, ended up being someone's live captioning tool for a 99-year-old with hearing loss — and beat out everything else they'd tried.
+
 ## Why this repo exists
 
 There's no code to check into git — this documents something that actually happened and actually shipped to three app stores, at a time before this account existed to properly record it. Consider this the historical marker.
